@@ -1,0 +1,40 @@
+html{
+    font-size: 10px;
+     /* px signifie 'pixels': la taille de base pour
+      la police est désormais 10 pixels de haut*/  
+      font-family: 'Noto Serif', serif;
+   /* cela devrait être le reste du résultat obtenu à partir
+    de Google fonts */
+       background-color: #E1E6FA;   
+}
+h1 {
+    font-size: 60px;
+    text-align: center;
+    margin: 0;
+    padding: 20px 0;
+    color: #0a0a0a;
+    text-shadow: 3px 3px 1px rgb(235, 225, 225);
+  }
+  
+  p, li {
+    font-size: 16px;
+    line-height: 2;
+    letter-spacing: 1px;
+  }
+  div {
+    text-align: center;
+  }
+  img {
+    /* mm code pour centralisé 
+    width:100px;
+    height:100px;*/
+    display: block;
+  margin: 0 auto;
+  }
+  body {
+    width: 600px;
+    margin: 0 auto;
+    /*background-color: #00ff73a9;*/
+    padding: 0 20px 20px 20px;
+    /*border: 5px solid rgb(199, 171, 171);*/
+  }
