@@ -1,0 +1,1 @@
+New texte to see modification merging and reset git commands
