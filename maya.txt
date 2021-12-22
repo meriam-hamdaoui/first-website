@@ -1,4 +1,4 @@
 I'm doing my best to learn the web development
 i'm learning how to add and modifie files/folders to my project via git
-Shit w bara
+I'm doing just fine
 Hello World
